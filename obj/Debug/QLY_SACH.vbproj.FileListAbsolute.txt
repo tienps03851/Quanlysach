@@ -1,0 +1,15 @@
+c:\users\tien\documents\visual studio 2015\Projects\QLY_SACH\QLY_SACH\bin\Debug\QLY_SACH.exe.config
+C:\Users\Tien\Documents\Visual Studio 2015\Projects\QLY_SACH\QLY_SACH\obj\Debug\QLY_SACH.vbprojResolveAssemblyReference.cache
+C:\Users\Tien\Documents\Visual Studio 2015\Projects\QLY_SACH\QLY_SACH\obj\Debug\QLY_SACH.Resources.resources
+C:\Users\Tien\Documents\Visual Studio 2015\Projects\QLY_SACH\QLY_SACH\obj\Debug\QLY_SACH.vbproj.GenerateResource.Cache
+C:\Users\Tien\Documents\Visual Studio 2015\Projects\QLY_SACH\QLY_SACH\obj\Debug\QLY_SACH.xml
+C:\Users\Tien\Documents\Visual Studio 2015\Projects\QLY_SACH\QLY_SACH\obj\Debug\QLY_SACH.frmHoaDon.resources
+C:\Users\Tien\Documents\Visual Studio 2015\Projects\QLY_SACH\QLY_SACH\obj\Debug\QLY_SACH.frmThemSach.resources
+C:\Users\Tien\Documents\Visual Studio 2015\Projects\QLY_SACH\QLY_SACH\bin\Debug\QLY_SACH.exe
+C:\Users\Tien\Documents\Visual Studio 2015\Projects\QLY_SACH\QLY_SACH\bin\Debug\QLY_SACH.pdb
+C:\Users\Tien\Documents\Visual Studio 2015\Projects\QLY_SACH\QLY_SACH\bin\Debug\QLY_SACH.xml
+C:\Users\Tien\Documents\Visual Studio 2015\Projects\QLY_SACH\QLY_SACH\obj\Debug\QLY_SACH.exe
+C:\Users\Tien\Documents\Visual Studio 2015\Projects\QLY_SACH\QLY_SACH\obj\Debug\QLY_SACH.pdb
+C:\Users\Tien\Documents\Visual Studio 2015\Projects\QLY_SACH\QLY_SACH\obj\Debug\QLY_SACH.frmTimsach.resources
+C:\Users\Tien\Documents\Visual Studio 2015\Projects\QLY_SACH\QLY_SACH\obj\Debug\QLY_SACH.frmDangNhap.resources
+C:\Users\Tien\Documents\Visual Studio 2015\Projects\QLY_SACH\QLY_SACH\obj\Debug\QLY_SACH.frmQuanLySach.resources
